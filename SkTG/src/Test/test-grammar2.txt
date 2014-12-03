@@ -1,0 +1,6 @@
+S			:	XaXcXtX				:	1
+XaXcXtX		:	MaXaXcM	XaMcXtX		:	0.1	:	1	:	2
+MaXaXcM		:	MaacM				:	0.2
+XaMcXtX		:	McMtXgX	XaMcXtM		:	0.3	:	3	:	0
+McMtXgX		:	McMtg				:	0.5
+XaMcXtM		:	aMctM				:	0.7	

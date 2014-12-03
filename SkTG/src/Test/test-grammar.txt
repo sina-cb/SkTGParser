@@ -1,0 +1,7 @@
+S			:	XaXbXcXfX				:	1
+XaXbXcXfX	:	XaMcXeXfX	MaXbXcMfM	:	0.13	:	3	:	1
+MaXbXcMfM	:	MabcMfM					:	0.23
+XaMcXeXfX	:	McXdXeXfM	XaMcMeMfX	:	0.37	:	2	:	0
+McXdXeXfM	:	McdefM					:	0.59
+XaMcMeMfX	:	XaMeMfXgX	MaMcMeMfM	:	0.73	:	4	:	1
+XaMeMfXgX	:	aMeMfg					:	1
